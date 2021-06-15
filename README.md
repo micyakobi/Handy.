@@ -1,3 +1,10 @@
+https://handy.cs.colman.ac.il:3000/
+
+# Running Handy React App
+
+1. Run npm install in /server, /client directories 
+2. From the /handy/client directory run script: npm start (with administrator) to run the project.
+
 #	Project description
 
 "Handy” is an app for receiving and providing services in an area of general expertise. As a service provider you can choose from a variety of general categories and areas of interest where you can provide the services, as a service recipient you can upload requested services in general posts and filter your options by the requested price and response time.
